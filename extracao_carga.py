@@ -12,7 +12,7 @@ start_time = (datetime.now() + timedelta(-1)).strftime(TIMESTAMP_FORMAT)
 
 
 def extract_amzn_news():
-    API_KEY = 'secret'
+    API_KEY = '******************'
 
     COMPANY = 'AMZN'
 
