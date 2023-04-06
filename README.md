@@ -1,3 +1,5 @@
+# Sobre o projeto
+
 O Apache Airflow é uma plataforma de gerenciamento de fluxo de trabalho que permite a automação de tarefas e fluxos de trabalho complexos. No código apresentado, o Airflow é usado para agendar a execução da extração de notícias diariamente. Ele também é usado para executar dois tipos de tarefas: uma tarefa para criar o diretório onde o arquivo de saída será salvo e outra tarefa para executar a extração das notícias e salvar o arquivo resultante.
 
 Além do Apache Airflow, o código também faz uso de outras bibliotecas importantes, como o pandas, que é usado para formatar e converter os dados em um DataFrame, e o Finnhub, que é usado para fazer a chamada à API Finnhub para extrair as notícias.
